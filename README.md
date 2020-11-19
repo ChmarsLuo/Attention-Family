@@ -8,7 +8,7 @@ The development of attention mechanisms
 
 **今天笔者发神经想记录一下视觉注意力机制的发展历程**  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201119104947779.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtc0xVTw==,size_16,color_FFFFFF,t_70#pic_center)  
-**[------------------------------attention主要的发展路径及目前的主流方法----------------](https://www.zhihu.com/question/68482809)**   
+**[-------------------attention主要的发展路径及目前的主流方法----------------](https://www.zhihu.com/question/68482809)**   
 
 
 
@@ -34,7 +34,7 @@ The development of attention mechanisms
 
 
 
-# —————————————2017—————————————    
+# ————————————2017—————————————     
 ## Attention Is All You Need  
 **论文下载：[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**    
 
@@ -48,7 +48,7 @@ The development of attention mechanisms
 
 
 
-# ————————————2018——————————————  
+# ————————————2018—————————————   
 
 ## Graph Attention Networks  
 **论文下载：[Graph Attention Networks](https://arxiv.org/abs/1710.10903)**  
@@ -97,7 +97,7 @@ The development of attention mechanisms
 代码下载：[keras-Non-local Neural Networks](https://github.com/titu1994/keras-non-local-nets)    
 ---------------[pytorch-Non-local Neural Networks](https://github.com/AlexHex7/Non-local_pytorch)**   
 
-# ————————————2019——————————————
+# ————————————2019————————————— 
 ## DANet-Dual Attention Network for Scene Segmentation(CVPR)     
 **论文下载：[paper-Dual Attention Network for Scene Segmentation](http://xxx.itp.ac.cn/pdf/1809.02983v4)    
 论文解读：[DANet-Dual Attention Network for Scene Segmentation](https://blog.csdn.net/xh_hit/article/details/88575853)    
@@ -155,7 +155,7 @@ The development of attention mechanisms
 
 
 
-# ————————————2020—————————————  
+# ————————————2020—————————————   
 ## SANet-Squeeze-and-Attention Networks for Semantic Segmentation(CVPR)    
 **论文下载：[paper-Squeeze-and-Attention Networks for Semantic Segmentation](https://arxiv.org/pdf/1909.03402.pdf)    
 代码解读：[SANet-Squeeze-and-Attention Networks for Semantic Segmentation](https://blog.csdn.net/weixin_42565571/article/details/107146606)   
