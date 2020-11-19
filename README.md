@@ -20,7 +20,7 @@ The development of attention mechanisms
 
 
 
-# ————————————————2016————————————————  
+# ————————————————2016————————————— 
 
 
 
@@ -34,7 +34,7 @@ The development of attention mechanisms
 
 
 
-# ————————————————2017————————————————  
+# ————————————————2017—————————————  
 ## Attention Is All You Need
 **论文下载：[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**  
 
