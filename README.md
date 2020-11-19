@@ -22,6 +22,8 @@ The development of attention mechanisms
 
 # ————————————————2016————————————————  
 
+
+
 ## Attention to Scale-Scale-aware Semantic Image Segmentation(CVPR)  
 **论文下载：[paper-Attention to Scale-Scale-aware Semantic Image Segmentation](https://arxiv.org/abs/1511.03339)  
 论文解读：[Attention to Scale-Scale-aware Semantic Image Segmentation](https://blog.csdn.net/zhangjunhit/article/details/72915490)  
