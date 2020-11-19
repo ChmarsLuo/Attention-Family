@@ -1,16 +1,16 @@
 # Attention-Family
 The development of attention mechanisms
 
-@[TOC](目录)
+
 
 # 视觉注意力机制的发展历程-Attention-Family
 
 
 **今天笔者发神经想记录一下视觉注意力机制的发展历程**  
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201119104947779.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtc0xVTw==,size_16,color_FFFFFF,t_70#pic_center)
-**[------------------------------attention主要的发展路径及目前的主流方法----------------](https://www.zhihu.com/question/68482809)**
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201119104947779.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtc0xVTw==,size_16,color_FFFFFF,t_70#pic_center)\\
+**[------------------------------attention主要的发展路径及目前的主流方法----------------](https://www.zhihu.com/question/68482809)**\\
 自从Attention 机制继在 NLP 领域不错的效果之后，Attention 机制也在 CV 领域迅速拉开了大幕。以 Kaiming He 组的 Nonlocal为起点，迅速开启了Attention 时代。此后层出不穷的文章，犹如雨后春笋般开遍了整个CV领域。  
-**下面以时间线为轴记录视觉注意力机制的发展论文以及代码：**
+**下面以时间线为轴记录视觉注意力机制的发展论文以及代码：**  \\
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20201119105109509.gif#pic_center)
 
 
