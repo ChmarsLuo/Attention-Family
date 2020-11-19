@@ -7,31 +7,31 @@ The development of attention mechanisms
 
 
 **今天笔者发神经想记录一下视觉注意力机制的发展历程**  
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201119104947779.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtc0xVTw==,size_16,color_FFFFFF,t_70#pic_center)\\
-**[------------------------------attention主要的发展路径及目前的主流方法----------------](https://www.zhihu.com/question/68482809)**\\
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201119104947779.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0NoYXJtc0xVTw==,size_16,color_FFFFFF,t_70#pic_center)  
+**[------------------------------attention主要的发展路径及目前的主流方法----------------](https://www.zhihu.com/question/68482809)** 
 自从Attention 机制继在 NLP 领域不错的效果之后，Attention 机制也在 CV 领域迅速拉开了大幕。以 Kaiming He 组的 Nonlocal为起点，迅速开启了Attention 时代。此后层出不穷的文章，犹如雨后春笋般开遍了整个CV领域。  
-**下面以时间线为轴记录视觉注意力机制的发展论文以及代码：**  \\
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20201119105109509.gif#pic_center)
+**下面以时间线为轴记录视觉注意力机制的发展论文以及代码：**  
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20201119105109509.gif#pic_center)   
 
 
 
 
 
-# ————————————————2016————————————————
+# ————————————————2016————————————————  
 
-## Attention to Scale-Scale-aware Semantic Image Segmentation(CVPR)
-**论文下载：[paper-Attention to Scale-Scale-aware Semantic Image Segmentation](https://arxiv.org/abs/1511.03339)
-论文解读：[Attention to Scale-Scale-aware Semantic Image Segmentation](https://blog.csdn.net/zhangjunhit/article/details/72915490)
-代码下载：————————————————————————————**
-
-
+## Attention to Scale-Scale-aware Semantic Image Segmentation(CVPR)  
+**论文下载：[paper-Attention to Scale-Scale-aware Semantic Image Segmentation](https://arxiv.org/abs/1511.03339)  
+论文解读：[Attention to Scale-Scale-aware Semantic Image Segmentation](https://blog.csdn.net/zhangjunhit/article/details/72915490)  
+代码下载：————————————————————————————**  
 
 
 
 
-# ————————————————2017————————————————
+
+
+# ————————————————2017————————————————  
 ## Attention Is All You Need
-**论文下载：[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**
+**论文下载：[Attention Is All You Need](https://arxiv.org/abs/1706.03762)**  
 
 ## Semi-Supervised Classification with Graph Convolutional Networks(ICLR)
 **论文下载：[Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)**
